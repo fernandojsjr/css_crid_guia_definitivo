@@ -11,7 +11,7 @@
   grid-template-areas: 
     "b1 b1 b1"
     "b2 b2 b3"
-    "b4 b5 b3";
+    "b4 b4 b3";
     /* align-items: stretch;
     justify-items: start; */
 }
@@ -35,9 +35,9 @@
   /* height: 80px; */
 }
 
-#box-5 {
+/* #box-5 {
   grid-area: b5;
-}
+} */
 
 .box{
   border: 1px solid blue;
